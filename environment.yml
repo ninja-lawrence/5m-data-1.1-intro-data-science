@@ -1,0 +1,4 @@
+name: sctpenv
+channels:
+  - defaults
+prefix: /home/gendaff/miniconda3/envs/sctpenv
